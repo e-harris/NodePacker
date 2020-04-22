@@ -1,0 +1,4 @@
+berks-cookbooks/
+Berksfile.lock
+packer_hidden.json
+berksfile_hidden
