@@ -21,6 +21,9 @@ Packer uses a .json file to create an image on AWS, also known as an AMI. These 
  - Foodcritic version: 16.2.0
  - Cookstyle version: 5.20.0
 
+
+## Creating the AMI
+
 #### In the root directory:
 
 ### Getting the cookbook
